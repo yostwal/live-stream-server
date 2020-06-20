@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "hello world",
+      "description": "this is my first stream",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": "this is my second stream",
+      "id": 2
+    },
+    {
+      "title": "stream with userId",
+      "description": "This stream should have a userId",
+      "userId": "102208780102113153172",
+      "id": 3
+    },
+    {
+      "title": "history object",
+      "description": "programmatic navigation works!",
+      "userId": "102208780102113153172",
+      "id": 4
+    }
+  ]
+}
